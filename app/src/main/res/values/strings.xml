@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenPractico</string>
+    <string name="btnBack">Regresar</string>
+    <string name="btnSent">Enviar</string>
+    <string name="etHintName">Escribe tu nombre</string>
+    <string name="etHintDate">Escribe tu Fecha de nacimiento</string>
+    <string name="etHintRol">Escribe tu puesto en la empresa</string>
+</resources>
